@@ -1,0 +1,25 @@
+Name,Normalized_Name,Description
+ID,ID,ID Number
+reg1,Region1,Geographic Regions 1
+reg2,Region2,Geographic Regions 2
+reg3,Region3,Geographic Regions 3
+reg4,Region4,Geographic Regions 4
+reg5,Region5,Geographic Regions 5 - Imputed
+home,HomeOwner,"1 = HmOw, 0 = Not a HmOw"
+chld,Children,# of children
+hinc,HS Income,Household income
+genf,Gender,"0 = Male, 1 = Female"
+wrat,Wealth Rating,"9 = Highest, 0 = lowest"
+avhv,AVG Home Val,In $ thousands
+incm,Median Fam Inc.,In $ thousands
+inca,AVG Fam Inc,In $ thousands
+plow,Percent Low,Low income category
+npro,Prom. Rec.,LfTm # of promotions rec. to date
+tgif,Lifetime GoD,$ amount of LfTm gifts to date
+lgif,Large GoD,$ amount of largest gift to date
+rgif,Recent Gift,amount of most recent gift
+tdon,Mnts Last Donation,# of months since last donation
+tlag,Mnts 1st & 2nd gift,# of months bet. 1st and 2nd gifts
+agif,Avg $ GoD,AVG $ amount of gifts to date
+donr,Class. Response Var,"1 = Donor, 0 = Non-donor"
+damt,Pred. Response Var,Donation Amount in $
